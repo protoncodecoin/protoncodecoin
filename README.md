@@ -6,6 +6,16 @@ I am thrilled to welcome you to my GitHub portfolio.</p>
 
 - <b>Real Estate</b>
   - [Web Application with Django, JavaScript, Html, Css and Postgres](https://github.com/protoncodecoin/Real_Estate)
+
+
+- <b>Quizla Application</b>
+  - [Desktop Quiz Application](https://github.com/protoncodecoin/quizla)
+ 
+
+- <b>GRIMM QUOTE GENERATOR</b>
+  - [Desktop Quote Generator Application](https://github.com/protoncodecoin/GRIMM-QUOTE-GENERATOR)
+ 
+
 <!--
 **protoncodecoin/protoncodecoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
