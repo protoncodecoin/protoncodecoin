@@ -5,13 +5,20 @@ I am thrilled to welcome you to my GitHub portfolio.</p>
 <h2>Software Development Projects</h2>
 
 - <b>Web Development</b>
-  - [Web Application with Django, JavaScript, Html, Css and Postgres](https://github.com/protoncodecoin/Real_Estate)
+  - [Real Estate (Golden_Estate) with Django, JavaScript, Html, Css and Postgres](https://github.com/protoncodecoin/Real_Estate)
+  - [Discord Clone (StudyBud) with Django, JavaScript, Html, Css and SQLite](https://github.com/protoncodecoin/Discord_studybud)
+  - [Image BookMarker with Django, JavaScript, Html, Css and Postgres](https://github.com/protoncodecoin/Real_Estate)
+  - [Blog (Mysite) with Django, Html, Css and Postgres](https://github.com/protoncodecoin/Real_Estate)
+  - [Ecommerce Application with Django, JavaScript, Html, Css and Postgres](https://github.com/protoncodecoin/Real_Estate)
 
 
 - <b>Desktop Application</b>
   - [Desktop Quiz Application](https://github.com/protoncodecoin/quizla)
   - [Desktop Quote Generator Application](https://github.com/protoncodecoin/GRIMM-QUOTE-GENERATOR)
- 
+  - [Desktop Photo Editor Application](https://github.com/protoncodecoin/Photo-Editor)
+
+- <b>API Development</b>
+  - [Note Taking API](https://github.com/protoncodecoin/Note-api)
 
 <!--
 **protoncodecoin/protoncodecoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
