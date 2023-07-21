@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-<p>Hello there! 👋 I'm Prince Asante, and I'm passionate about building exciting <a href="https://github.com/protoncodecoin">web application</a>, <a href="https://github.com/protoncodecoin">REST/RESTful APIs</a> and <a href="https://github.com/protoncodecoin">desktop applications </a>with Python and JavaScript technologies.
+<p>Hello there! 👋 I'm Prince Asante, and I'm passionate about building exciting <a href="https://github.com/protoncodecoin">Web application</a>, <a href="https://github.com/protoncodecoin">REST/RESTful APIs</a> and <a href="https://github.com/protoncodecoin">Desktop applications </a>with Python and JavaScript technologies.
 I am thrilled to welcome you to my GitHub portfolio.</p>
 
 <h2>Software Development Projects</h2>
