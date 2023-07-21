@@ -16,6 +16,7 @@ I am thrilled to welcome you to my GitHub portfolio.</p>
   - [Desktop Quiz Application](https://github.com/protoncodecoin/quizla)
   - [Desktop Quote Generator Application](https://github.com/protoncodecoin/GRIMM-QUOTE-GENERATOR)
   - [Desktop Photo Editor Application](https://github.com/protoncodecoin/Photo-Editor)
+  - [Desktop Text Editor Application](https://github.com/protoncodecoin/RichText-Editor)
 
 - <b>API Development</b>
   - [Note Taking API](https://github.com/protoncodecoin/Note-api)
