@@ -17,12 +17,12 @@ I am thrilled to welcome you to my GitHub portfolio.</p>
   - [Bankist](https://github.com/protoncodecoin/Bankist-Website)
  
 
-- <b>Nodejs (Express) Development</b>
- - [React Tour App](https://github.com/protoncodecoin/react-tour-app)
+- <b>Reactjs (Express) Development</b>
+  - [React Tour App](https://github.com/protoncodecoin/react-tour-app)
  
  
 - <b>Nodes Application</b>
- - [Hospital Backend System with AI to create Actionable Steps for Patients](https://github.com/protoncodecoin/hospital-backend-system)
+  - [Hospital Backend System with AI to create Actionable Steps for Patients](https://github.com/protoncodecoin/hospital-backend-system)
 
 
 - <b>Desktop Application</b>
