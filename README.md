@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-<p>Hello there! 👋 I'm Prince Asante, and I'm passionate about building exciting <a href="https://github.com/protoncodecoin">Web application</a>, <a href="https://github.com/protoncodecoin">REST/RESTful APIs</a> and <a href="https://github.com/protoncodecoin">Desktop and Mobile applications </a>with Python, Flutter and JavaScript technologies.
+<p>Hello there! 👋 I'm Prince Asante, and I'm passionate about building exciting <a href="https://github.com/protoncodecoin">Web application</a>, <a href="https://github.com/protoncodecoin">REST/RESTful APIs</a> and <a href="https://github.com/protoncodecoin">Desktop and Mobile applications </a>with Python, Flutter, Rust and JavaScript technologies.
 I am thrilled to welcome you to my GitHub portfolio.</p>
 
 <h2>Software Development Projects</h2>
@@ -12,6 +12,7 @@ I am thrilled to welcome you to my GitHub portfolio.</p>
   - [Bankist Website-with Html, Css and Javascript (Responsive)](https://github.com/protoncodecoin/Bankist-Website/tree/main)
   - [Boostrap Site-with Bootstrap (Responsive)](https://github.com/protoncodecoin/Bootstrap-Developer)
   - [OmniFood with Html, Css and Javascript (Responsive)](https://github.com/protoncodecoin/omni-food)
+  - [Hospital Backend System with AI to create Actionable Steps for Patients](https://github.com/protoncodecoin/hospital-backend-system)
 
 
 - <b>Desktop Application</b>
@@ -24,10 +25,16 @@ I am thrilled to welcome you to my GitHub portfolio.</p>
   - [Note Taking API](https://github.com/protoncodecoin/Note-api)
   - [Anime and Blog API](https://github.com/protoncodecoin/creative-blog)
  
-- <b>Mobile App Developmentt [Flutter and Dart]</b>
+- <b>Mobile App Development [Flutter and Dart]</b>
   - [Business Card](https://github.com/protoncodecoin/Flutter-Business-card)
   - [Dice Roller](https://github.com/protoncodecoin/Dice-Roller-)
 
+ <b>Utility Tools [Python]</b>
+  - [Snow (formaly Imagine) ](https://github.com/protoncodecoin/imagine-cli)
+
+ <b>Cybersecurity Simmulation Tools [Rust]</b>
+ - [Account Management Simulation) ]([https://github.com/protoncodecoin/imagine-cli](https://github.com/protoncodecoin/account-manager)
+ 
 
 
 <!--
