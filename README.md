@@ -4,13 +4,13 @@ I am thrilled to welcome you to my GitHub portfolio.</p>
 
 <h2>Software Development Projects</h2>
 
--<b>Software Development Kit (SDKs)
- - [Frutyvice SDK for the Fruityvice API](https://github.com/protoncodecoin/fruityvice-sdk)
+- <b>Software Development Kit (SDKs)
+  - [Frutyvice SDK for the Fruityvice API](https://github.com/protoncodecoin/fruityvice-sdk)
 
    
    
 - <b>Web Development</b>
- - [Dabble with Django, JavaScript, Html, Css and Postgres, Redis and Celery](https://github.com/protoncodecoin/dabble)
+  - [Dabble with Django, JavaScript, Html, Css and Postgres, Redis and Celery](https://github.com/protoncodecoin/dabble)
   - [Coursity with Django, JavaScript, Html, Css, Redis, Celery](https://github.com/protoncodecoin/coursesity)
   - [Discord Clone (StudyBud) with Django, JavaScript, Html, Css and SQLite](https://github.com/protoncodecoin/Discord_studybud)
   - [Image BookMarker with Django, JavaScript, Html, Css and Postgres](https://github.com/protoncodecoin/image-bookmaker-site)
