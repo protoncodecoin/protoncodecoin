@@ -6,27 +6,29 @@ I am thrilled to welcome you to my GitHub portfolio.</p>
 
 -<b>Software Development Kit (SDKs)
  - [Frutyvice SDK for the Fruityvice API](https://github.com/protoncodecoin/fruityvice-sdk)
+
    
    
 - <b>Web Development</b>
  - [Dabble with Django, JavaScript, Html, Css and Postgres, Redis and Celery](https://github.com/protoncodecoin/dabble)
-  - [Real Estate (Golden_Estate) with Django, JavaScript, Html, Css and Postgres](https://github.com/protoncodecoin/Real_Estate)
   - [Coursity with Django, JavaScript, Html, Css, Redis, Celery](https://github.com/protoncodecoin/coursesity)
   - [Discord Clone (StudyBud) with Django, JavaScript, Html, Css and SQLite](https://github.com/protoncodecoin/Discord_studybud)
   - [Image BookMarker with Django, JavaScript, Html, Css and Postgres](https://github.com/protoncodecoin/image-bookmaker-site)
-  - [Blog (Mysite) with Django, Html, Css and SQLite](https://github.com/protoncodecoin/Blog-site)
   - [Bankist Website-with Html, Css and Javascript (Responsive)](https://github.com/protoncodecoin/Bankist-Website/tree/main)
   - [Boostrap Site-with Bootstrap (Responsive)](https://github.com/protoncodecoin/Bootstrap-Developer)
   - [OmniFood with Html, Css and Javascript (Responsive)](https://github.com/protoncodecoin/omni-food)
   - [Bankist](https://github.com/protoncodecoin/Bankist-Website)
  
 
+
 - <b>Reactjs (Express) Development</b>
   - [React Tour App](https://github.com/protoncodecoin/react-tour-app)
  
+
  
 - <b>Nodes Application</b>
   - [Hospital Backend System with AI to create Actionable Steps for Patients](https://github.com/protoncodecoin/hospital-backend-system)
+
 
 
 - <b>Desktop Application</b>
@@ -36,10 +38,12 @@ I am thrilled to welcome you to my GitHub portfolio.</p>
   - [Desktop Text Editor Application](https://github.com/protoncodecoin/RichText-Editor)
 
 
+
 - <b>API Development</b>
   - [Note Taking API](https://github.com/protoncodecoin/Note-api)
   - [Anime and Blog API](https://github.com/protoncodecoin/creative-blog)
   - [FastAPI Todo App](https://github.com/protoncodecoin/fastAPi-TodoApp)
+
 
  
 - <b>Mobile App Development [Flutter and Dart]</b>
@@ -47,8 +51,10 @@ I am thrilled to welcome you to my GitHub portfolio.</p>
   - [Word Huddle Puzzle Game ](https://github.com/protoncodecoin/word_huddle_puzzle)
 
 
+
 - <b>Utility Tools [Python]</b>
    - [Snow (formaly Imagine)](https://github.com/protoncodecoin/imagine-cli)
+
 
 
 - <b>Cybersecurity Simmulation Tools [Rust]</b>
