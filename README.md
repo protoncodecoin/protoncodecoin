@@ -12,6 +12,7 @@ I am thrilled to welcome you to my GitHub portfolio.</p>
 - <b>Web Development</b>
   - [Dabble with Django, JavaScript, Html, Css and Postgres, Redis and Celery](https://github.com/protoncodecoin/dabble)
   - [Coursity with Django, JavaScript, Html, Css, Redis, Celery](https://github.com/protoncodecoin/coursesity)
+  - [Podcast FastAPI-Backend-Server](https://github.com/protoncodecoin/tbc-server)
   - [Discord Clone (StudyBud) with Django, JavaScript, Html, Css and SQLite](https://github.com/protoncodecoin/Discord_studybud)
   - [Image BookMarker with Django, JavaScript, Html, Css and Postgres](https://github.com/protoncodecoin/image-bookmaker-site)
   - [Bankist Website-with Html, Css and Javascript (Responsive)](https://github.com/protoncodecoin/Bankist-Website/tree/main)
@@ -26,7 +27,7 @@ I am thrilled to welcome you to my GitHub portfolio.</p>
  
 
  
-- <b>Nodes Application</b>
+- <b>NodeJs Application</b>
   - [Hospital Backend System with AI to create Actionable Steps for Patients](https://github.com/protoncodecoin/hospital-backend-system)
 
 
