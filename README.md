@@ -1,6 +1,14 @@
 <h1>About Me</h1>
-<p>Hello there! 👋 I'm Prince Asante, and I'm passionate about building exciting <a href="https://github.com/protoncodecoin">Web application</a>, <a href="https://github.com/protoncodecoin">REST/RESTful APIs</a> and <a href="https://github.com/protoncodecoin">Desktop and Mobile applications </a>with Python, Flutter, Rust and JavaScript technologies.
-I am thrilled to welcome you to my GitHub portfolio.</p>
+##👋 Hello there! I'm Prince Asante ##
+
+I'm passionate about building exciting **web applications**, **RESTful APIs**, and **desktop & mobile applications** using **Python**, **Flutter**, **Rust**, and **JavaScript** technologies.  
+
+As a **cybersecurity student**, I'm deeply interested in creating and contributing to a safer cyber world for the future.  
+
+💻 I’m thrilled to welcome you to my [GitHub portfolio](https://github.com/protoncodecoin) — where I share my projects, ideas, and journey as a developer!
+
+---
+
 
 <h2>Software Development Projects</h2>
 
